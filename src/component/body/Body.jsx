@@ -4,6 +4,7 @@ import {faCartShopping} from "@fortawesome/free-solid-svg-icons"
 import {faUser} from "@fortawesome/free-solid-svg-icons"
 import imgHeading from '../img/homeArt.jpg'
 import Address from "./address"
+import List from "../../pages/list/List"
 const Body=()=>{
     return (
         
@@ -11,7 +12,7 @@ const Body=()=>{
                  <img className="imgheading" src={imgHeading} alt="" />
                  <div className="heading-nav">
                  <ul className="nav">
-                  <li><a href="">ĐẶT SÂN</a></li>
+                  <li><a href="#List">ĐẶT SÂN</a></li>
                   <li><a href="">DIỄN ĐÀN</a></li>
                   <li><a href="">LỊCH SỬ GIAO DỊCH</a></li>
                   
