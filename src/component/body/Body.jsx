@@ -2,7 +2,7 @@ import "./body.css"
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome"
 import {faCartShopping} from "@fortawesome/free-solid-svg-icons"
 import {faUser} from "@fortawesome/free-solid-svg-icons"
-import imgHeading from '../img/homeArt.jpg'
+import imgHeading from '../img/homes.jpg'
 import Address from "./address"
 import List from "../../pages/list/List"
 const Body=()=>{

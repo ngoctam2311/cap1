@@ -1,5 +1,5 @@
 import "./navbar.css"
-import myImage from '../img/homeArt.jpg';
+import myImage from '../img/homes.jpg';
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome"
 import {faPhone} from "@fortawesome/free-solid-svg-icons"
 import Body from "../body/Body";
